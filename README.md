@@ -73,6 +73,8 @@ POST http://localhost:8080/sampleProject/articles
 DELETE http://localhost:8080/sampleProject/articles/7
 ```
 ## todos
+* [ ] HMI on base path __'/'__ to list all projects and resources
+* [ ] integrate http://apidocjs.com/
 * [ ] More comments
 * [ ] Errors management
 * [ ] increase my english skill :)
