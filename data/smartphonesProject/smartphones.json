@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "1",
+    "name": "iPhone4S++",
+    "marque": "$ref_marques_1"
+  },
+  {
+    "_id": "2",
+    "name": "iPhone5",
+    "marque": "$ref_marques_1"
+  },
+  {
+    "_id": "3",
+    "name": "iPhone5S",
+    "marque": "$ref_marques_1"
+  },
+  {
+    "_id": "4",
+    "name": "iPhone5C",
+    "marque": "$ref_marques_1"
+  },
+  {
+    "_id": "5",
+    "name": "HTC One",
+    "marque": "$ref_marques_2"
+  },
+  {
+    "_id": "6",
+    "name": "Lumia 930",
+    "marque": "$ref_marques_3"
+  }
+]

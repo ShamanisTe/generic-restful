@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "1",
+    "name": "Top red - new val",
+    "category": "$ref_categories_3"
+  },
+  {
+    "_id": "2",
+    "name": "iPhone5",
+    "category": "$ref_categories_2"
+  },
+  {
+    "_id": "3",
+    "name": "Learn JavaScript",
+    "category": "$ref_categories_1"
+  },
+  {
+    "_id": "4",
+    "name": "How to do gardening",
+    "category": "$ref_categories_1"
+  },
+  {
+    "_id": "5",
+    "name": "HTC One",
+    "category": "$ref_categories_2"
+  },
+  {
+    "_id": "6",
+    "name": "Lumia 930",
+    "category": "$ref_categories_2"
+  }
+]
